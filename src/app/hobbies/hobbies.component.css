@@ -1,0 +1,17 @@
+.hobbiesComp{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: darkolivegreen;
+    
+}
+
+h1{
+    font-size: 400%;
+}
+
+div{
+    background-color: silver;
+    width: 33%;
+    text-align: center;
+    margin: auto;
+
+}
